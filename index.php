@@ -25,7 +25,9 @@ and open the template in the editor.
         echo "La multiplicacio es:";
         
         //Fantasma
+        echo "Invisible";
         echo "fantasma";
+        
         ?>
     </body>
 </html>
