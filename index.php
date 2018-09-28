@@ -25,7 +25,7 @@ and open the template in the editor.
         echo "La multiplicacio es:";
         
         //Fantasma
-        echo "Invisible";
+        echo "*11*";
         echo "fantasma";
         
         ?>
