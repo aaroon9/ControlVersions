@@ -17,6 +17,9 @@ and open the template in the editor.
         //SUMA
         
         echo "La suma es:";
+        
+        //RESTA
+        echo "La resta es:";
         ?>
     </body>
 </html>
