@@ -23,6 +23,9 @@ and open the template in the editor.
         
         //Multi
         echo "La multiplicacio es:";
+        
+        //Fantasma
+        echo "fantasma";
         ?>
     </body>
 </html>
