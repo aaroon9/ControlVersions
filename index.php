@@ -14,7 +14,9 @@ and open the template in the editor.
         $a=0;
         $b=0;
         
-        
+        //SUMA
+        $a+$b=$c;
+        echo "La suma es:"+$c;
         ?>
     </body>
 </html>
