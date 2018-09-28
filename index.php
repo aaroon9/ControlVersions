@@ -20,6 +20,9 @@ and open the template in the editor.
         
         //RESTA
         echo "La resta es:";
+        
+        //Multi
+        echo "La multiplicacio es:";
         ?>
     </body>
 </html>
